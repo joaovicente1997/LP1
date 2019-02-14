@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="project2018" targetName="project2018" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9277b80-26fd-4169-aee9-4ac54f539038" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-845851819">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="c" value="15993" />
+          <entry key="h" value="843" />
+          <entry key="txt" value="116" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Doxygen file" value="57" />
+          <entry key="ObjectiveC" value="16779" />
+          <entry key="PLAIN_TEXT" value="116" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="c" value="32" />
+          <entry key="dat" value="2" />
+          <entry key="h" value="19" />
+          <entry key="project2018 (disassembly)" value="13" />
+          <entry key="txt" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Disassembly" value="13" />
+          <entry key="ObjectiveC" value="51" />
+          <entry key="PLAIN_TEXT" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fase2.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1411">
+              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+              <folding>
+                <element signature="e#478#583#0" />
+                <element signature="e#599#658#0" />
+                <element signature="e#678#753#0" />
+                <element signature="e#771#829#0" />
+                <element signature="e#851#1021#0" />
+                <element signature="e#1039#1119#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fase2.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="1199" selection-start-line="1199" selection-end-line="1199" />
+              <folding>
+                <element signature="e#2472#3216#0" />
+                <element signature="e#3218#6939#0" />
+                <element signature="e#6941#7822#0" />
+                <element signature="e#11203#11541#0" />
+                <element signature="e#11019#12044#0" />
+                <element signature="e#12740#13000#1" />
+                <element signature="e#12468#13810#0" />
+                <element signature="e#13812#14088#0" />
+                <element signature="e#20326#21150#0" />
+                <element signature="e#25117#26056#0" />
+                <element signature="e#26058#26405#0" />
+                <element signature="e#26529#27135#0" />
+                <element signature="e#27137#27745#0" />
+                <element signature="e#28711#29294#0" />
+                <element signature="e#29418#30628#0" />
+                <element signature="e#30630#31274#0" />
+                <element signature="e#31276#31993#0" />
+                <element signature="e#31995#32587#0" />
+                <element signature="e#32589#33287#0" />
+                <element signature="e#33289#34886#0" />
+                <element signature="e#34888#37112#0" />
+                <element signature="e#37236#42844#0" />
+                <element signature="e#42846#43291#0" />
+                <element signature="e#44522#45719#0" />
+                <element signature="e#46281#46963#0" />
+                <element signature="e#46774#47091#0" />
+                <element signature="e#47541#48041#0" />
+                <element signature="e#45843#46230#0" />
+                <element signature="e#46232#46412#0" />
+                <element signature="e#46414#46713#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>flag</find>
+      <find>iniciar_cam</find>
+      <find>save</find>
+      <find>check</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dictionary_functions/dictionary_functions.c" />
+        <option value="$PROJECT_DIR$/dictionary_functions/dictionary_functions.h" />
+        <option value="$PROJECT_DIR$/MSD/msd.h" />
+        <option value="$PROJECT_DIR$/MSD/msd.c" />
+        <option value="$PROJECT_DIR$/data/dicionario_ordenado.txt" />
+        <option value="$PROJECT_DIR$/matrix/matrix_functions.c" />
+        <option value="$PROJECT_DIR$/matrix/matrix_functions.h" />
+        <option value="$PROJECT_DIR$/data/matrix.txt" />
+        <option value="$PROJECT_DIR$/MergeSort/mergesort.h" />
+        <option value="$PROJECT_DIR$/MergeSort/mergesort.c" />
+        <option value="$PROJECT_DIR$/data/dicionario.txt" />
+        <option value="$PROJECT_DIR$/fase2/fase2.h" />
+        <option value="$PROJECT_DIR$/fase2/fase2.c" />
+        <option value="$PROJECT_DIR$/fase1/fase1.c" />
+        <option value="$PROJECT_DIR$/fase1/fase1.h" />
+        <option value="$PROJECT_DIR$/data/struct_sol.txt" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/fase2.c" />
+        <option value="$PROJECT_DIR$/fase2.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1167" />
+    <option name="width" value="762" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\swepp\CLionProjects\project2018\" />
+      <recent name="C:\Users\swepp\CLionProjects\project2018" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.project2018">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project2018" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project2018" TARGET_NAME="project2018" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project2018" RUN_TARGET_NAME="project2018">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.project2018" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9277b80-26fd-4169-aee9-4ac54f539038" name="Default Changelist" comment="" />
+      <created>1540980986549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540980986549</updated>
+      <workItem from="1540980988885" duration="19000" />
+      <workItem from="1540981025590" duration="763000" />
+      <workItem from="1541188134736" duration="45000" />
+      <workItem from="1542141409341" duration="200000" />
+      <workItem from="1542221886552" duration="206000" />
+      <workItem from="1542282628216" duration="23000" />
+      <workItem from="1542368967030" duration="532000" />
+      <workItem from="1542375739252" duration="1948000" />
+      <workItem from="1542377742158" duration="511000" />
+      <workItem from="1542378276316" duration="154000" />
+      <workItem from="1542378454031" duration="270000" />
+      <workItem from="1542378785581" duration="313000" />
+      <workItem from="1542379120312" duration="11958000" />
+      <workItem from="1542464788970" duration="863000" />
+      <workItem from="1542466275567" duration="629000" />
+      <workItem from="1542466929894" duration="1180000" />
+      <workItem from="1542468137370" duration="1520000" />
+      <workItem from="1542469677960" duration="813000" />
+      <workItem from="1542470506300" duration="1456000" />
+      <workItem from="1542471987883" duration="557000" />
+      <workItem from="1542472770397" duration="330000" />
+      <workItem from="1542473124918" duration="4325000" />
+      <workItem from="1542477479487" duration="43000" />
+      <workItem from="1542477541910" duration="736000" />
+      <workItem from="1542553236576" duration="2610000" />
+      <workItem from="1542637928779" duration="369000" />
+      <workItem from="1542638350884" duration="1802000" />
+      <workItem from="1542640736410" duration="2198000" />
+      <workItem from="1542643096162" duration="54000" />
+      <workItem from="1542643164883" duration="490000" />
+      <workItem from="1542643674390" duration="22792000" />
+      <workItem from="1542730606330" duration="12765000" />
+      <workItem from="1542894789560" duration="2796000" />
+      <workItem from="1542897640766" duration="2995000" />
+      <workItem from="1542901628877" duration="4340000" />
+      <workItem from="1542969141655" duration="22326000" />
+      <workItem from="1543003981045" duration="981000" />
+      <workItem from="1543069096926" duration="10803000" />
+      <workItem from="1543266688959" duration="709000" />
+      <workItem from="1543327418473" duration="227000" />
+      <workItem from="1543339187515" duration="723000" />
+      <workItem from="1543427880973" duration="164000" />
+      <workItem from="1543489865138" duration="7000" />
+      <workItem from="1543493798084" duration="114000" />
+      <workItem from="1543495666214" duration="404000" />
+      <workItem from="1543511822853" duration="142000" />
+      <workItem from="1543588892999" duration="2621000" />
+      <workItem from="1543614960986" duration="983000" />
+      <workItem from="1543940696709" duration="6000" />
+      <workItem from="1543960814940" duration="321000" />
+      <workItem from="1544027669038" duration="206000" />
+      <workItem from="1544094175559" duration="254000" />
+      <workItem from="1544795553231" duration="1756000" />
+      <workItem from="1544801064299" duration="174000" />
+      <workItem from="1544801263499" duration="5491000" />
+      <workItem from="1545305869764" duration="14000" />
+      <workItem from="1545386242137" duration="19415000" />
+      <workItem from="1545575105049" duration="14478000" />
+      <workItem from="1545613312318" duration="1748000" />
+      <workItem from="1545750171062" duration="7661000" />
+      <workItem from="1545824734409" duration="10686000" />
+      <workItem from="1545860031837" duration="325000" />
+      <workItem from="1545868197053" duration="48000" />
+      <workItem from="1545910087030" duration="23739000" />
+      <workItem from="1545948710298" duration="4095000" />
+      <workItem from="1545953136669" duration="1364000" />
+      <workItem from="1545988645115" duration="3443000" />
+      <workItem from="1546020875154" duration="221000" />
+      <workItem from="1546108081992" duration="5642000" />
+      <workItem from="1546354024050" duration="13000" />
+      <workItem from="1546354413860" duration="327000" />
+      <workItem from="1546535346110" duration="1908000" />
+      <workItem from="1546616201669" duration="15479000" />
+      <workItem from="1546694065146" duration="3047000" />
+      <workItem from="1546697422865" duration="7549000" />
+      <workItem from="1546726610774" duration="7320000" />
+      <workItem from="1546782974983" duration="4166000" />
+      <workItem from="1546860189694" duration="20160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="283865000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" x="23" y="201" width="1490" height="421" id="Run" order="2" sideWeight="0.49932885" weight="0.67234045" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32765958" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.3248227" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932885" weight="0.31914893" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18657719" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" x="23" y="201" width="1490" height="421" id="Run" order="2" sideWeight="0.49932885" weight="0.67375886" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32765958" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.3248227" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932885" weight="0.32056737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="m-&gt;*m-&gt;**m" />
+        <watch expression="matriz_strings" />
+        <watch expression="fp" />
+        <watch expression="c" />
+        <watch expression="l" />
+        <watch expression="sol" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>m-&gt;*m-&gt;**m</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/libs_src/strings/stringsorting.c" />
+    <entry file="file://$PROJECT_DIR$/dictionary_functions/dictionary_functions.h" />
+    <entry file="file://$PROJECT_DIR$/dictionary_functions/dictionary_functions.c" />
+    <entry file="file://$PROJECT_DIR$/libs_src/lib_util.c" />
+    <entry file="file://C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/i686-w64-mingw32/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/i686-w64-mingw32/include/conio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="119" column="3" selection-start-line="119" selection-start-column="3" selection-end-line="119" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/i686-w64-mingw32/include/mmcobj.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10166">
+          <caret line="738" column="9" selection-start-line="738" selection-start-column="9" selection-end-line="738" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mergeSortLinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/mergeSortLinkedList (1).h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dicionario_ordenado.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fase1.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msd.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergesort.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergesort.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dicionario.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/struct_tab.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/struct_dic.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fase1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dic.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/matrix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/struct_sol.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fase2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="1199" selection-start-line="1199" selection-end-line="1199" />
+          <folding>
+            <element signature="e#2472#3216#0" />
+            <element signature="e#3218#6939#0" />
+            <element signature="e#6941#7822#0" />
+            <element signature="e#11203#11541#0" />
+            <element signature="e#11019#12044#0" />
+            <element signature="e#12740#13000#1" />
+            <element signature="e#12468#13810#0" />
+            <element signature="e#13812#14088#0" />
+            <element signature="e#20326#21150#0" />
+            <element signature="e#25117#26056#0" />
+            <element signature="e#26058#26405#0" />
+            <element signature="e#26529#27135#0" />
+            <element signature="e#27137#27745#0" />
+            <element signature="e#28711#29294#0" />
+            <element signature="e#29418#30628#0" />
+            <element signature="e#30630#31274#0" />
+            <element signature="e#31276#31993#0" />
+            <element signature="e#31995#32587#0" />
+            <element signature="e#32589#33287#0" />
+            <element signature="e#33289#34886#0" />
+            <element signature="e#34888#37112#0" />
+            <element signature="e#37236#42844#0" />
+            <element signature="e#42846#43291#0" />
+            <element signature="e#44522#45719#0" />
+            <element signature="e#46281#46963#0" />
+            <element signature="e#46774#47091#0" />
+            <element signature="e#47541#48041#0" />
+            <element signature="e#45843#46230#0" />
+            <element signature="e#46232#46412#0" />
+            <element signature="e#46414#46713#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fase2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <element signature="e#478#583#0" />
+            <element signature="e#599#658#0" />
+            <element signature="e#678#753#0" />
+            <element signature="e#771#829#0" />
+            <element signature="e#851#1021#0" />
+            <element signature="e#1039#1119#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

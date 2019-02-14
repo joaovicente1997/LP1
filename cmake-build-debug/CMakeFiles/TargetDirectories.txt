@@ -1,0 +1,3 @@
+C:/Users/swepp/CLionProjects/project2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/swepp/CLionProjects/project2018/cmake-build-debug/CMakeFiles/project2018.dir
+C:/Users/swepp/CLionProjects/project2018/cmake-build-debug/CMakeFiles/edit_cache.dir

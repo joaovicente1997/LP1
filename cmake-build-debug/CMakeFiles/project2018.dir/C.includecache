@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/swepp/CLionProjects/project2018/fase1.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+C:/Users/swepp/CLionProjects/project2018/fase2.c
+fase2.h
+C:/Users/swepp/CLionProjects/project2018/fase2.h
+
+C:/Users/swepp/CLionProjects/project2018/fase2.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+fase1.h
+C:/Users/swepp/CLionProjects/project2018/fase1.h
+mergesort.h
+C:/Users/swepp/CLionProjects/project2018/mergesort.h
+
+C:/Users/swepp/CLionProjects/project2018/main.c
+fase1.h
+C:/Users/swepp/CLionProjects/project2018/fase1.h
+fase2.h
+C:/Users/swepp/CLionProjects/project2018/fase2.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/swepp/CLionProjects/project2018/mergesort.h
+

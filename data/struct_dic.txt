@@ -1,0 +1,11 @@
+Numero palavras: 5
+PORTO
+ 6
+LISBOA
+ 7
+COIMBRA
+ 8
+AVEIRO
+ 7
+FARO
+ 5
